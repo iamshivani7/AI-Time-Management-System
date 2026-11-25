@@ -3,6 +3,14 @@
 
 A machine learning project with a Streamlit dashboard for productivity analytics and employee attrition prediction.
 
+## Application Preview
+
+![Home Dashboard](home.png)
+
+![AI Prediction](prediction.png)
+
+**Live Demo:** [Open AI Time Management System](https://ai-time-management-system-ghyckmdcreywefimephe59.streamlit.app/)
+
 ## Live Demo
 
 [Launch AI Time Management System](https://ai-time-management-system-ghyckmdcreywefimephe59.streamlit.app/)
