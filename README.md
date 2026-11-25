@@ -17,6 +17,19 @@ A machine learning project with a Streamlit dashboard for productivity analytics
 ## Technologies
 Python, Streamlit, Pandas, Scikit-learn, XGBoost, Matplotlib
 
+## System Architecture
+
+```mermaid
+flowchart TD
+    A["IBM HR Dataset"] --> B["Data Preprocessing"]
+    B --> C["Feature Scaling"]
+    C --> D["Train-Test Split"]
+    D --> E["Six ML Models"]
+    E --> F["Model Evaluation"]
+    F --> G["XGBoost Model"]
+    G --> H["Streamlit Dashboard"]
+    H --> I["Analytics & Predictions"]
+
 ## Project Structure
 - `app.py` – Streamlit application
 - `final.ipynb` – Google Colab notebook
