@@ -11,9 +11,6 @@ A machine learning project with a Streamlit dashboard for productivity analytics
 
 **Live Demo:** [Open AI Time Management System](https://ai-time-management-system-ghyckmdcreywefimephe59.streamlit.app/)
 
-## Live Demo
-
-[Launch AI Time Management System](https://ai-time-management-system-ghyckmdcreywefimephe59.streamlit.app/)
 
 ## Features
 - Interactive Streamlit dashboard
