@@ -3,6 +3,10 @@
 
 A machine learning project with a Streamlit dashboard for productivity analytics and employee attrition prediction.
 
+## Live Demo
+
+[Launch AI Time Management System](https://ai-time-management-system-ghyckmdcreywefimephe59.streamlit.app/)
+
 ## Features
 - Interactive Streamlit dashboard
 - Productivity analytics and visualizations
