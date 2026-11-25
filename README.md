@@ -25,3 +25,11 @@ IBM HR Employee Attrition Dataset
 ## Disclaimer
 This project is an educational prototype.
 
+
+## Screenshots
+
+### Home
+![Home Dashboard](screenshots/home.png)
+
+### AI Prediction
+![AI Prediction](screenshots/prediction.png)
