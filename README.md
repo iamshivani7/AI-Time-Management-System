@@ -29,7 +29,8 @@ This project is an educational prototype.
 ## Screenshots
 
 ### Home
-![Home Dashboard](screenshots/home.png)
+![Home Dashboard](home.png)
 
 ### AI Prediction
-![AI Prediction](screenshots/prediction.png)
+![AI Prediction](prediction.png)
+
